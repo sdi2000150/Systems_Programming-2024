@@ -1,0 +1,10 @@
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000
+./tests/progDelay 1000

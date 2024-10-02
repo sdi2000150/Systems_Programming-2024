@@ -1,0 +1,2 @@
+./tests/progDelay 3
+./tests/progDelay 2
